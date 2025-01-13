@@ -1,0 +1,108 @@
+ .inter-inter> {
+     font-family: "Inter", serif;
+     font-optical-sizing: auto;
+     font-style: normal;
+ }
+
+ /* header section style */
+ .banner {
+     margin: 50px 140px 120px 140px;
+ }
+
+ .container {
+     background: linear-gradient(-180deg, rgb(7, 2, 17) 0%, rgba(7, 2, 17, 0) 100%), url(../images/banner.png);
+     width: 1320px;
+     height: 600px;
+     border-radius: 16px;
+     text-align: center;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+ }
+
+ .sub-title {
+     font-size: 32px;
+     color: white;
+
+ }
+
+ .title {
+     font-size: 72px;
+     color: white;
+ }
+
+ /* offer section style */
+ .offer-section {
+     margin: 120px 399px;
+ }
+
+ .offers {
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     text-align: center;
+     align-items: center;
+ }
+
+ .offer-title {
+     font-size: 88px;
+     font-weight: bold;
+     color: #FF0000;
+     margin-bottom: 38px;
+ }
+
+ .offer-subtitle {
+     font-size: 24px;
+     font-weight: 600px;
+     color: #FF0000;
+     margin-bottom: -25px;
+ }
+
+ .category {
+     font-size: 48px;
+     font-weight: bold;
+     color: #070211;
+     margin-bottom: 20px;
+ }
+
+ /* party section style */
+ .party-section {
+     margin: 120px 140px;
+ }
+
+ .party {
+     background: linear-gradient(90deg, rgb(7, 2, 17) 0%, rgba(7, 2, 17, 0) 100%), url(../images/Vectorrr.png);
+     max-width: 1320px;
+     background-repeat: no-repeat;
+     border-radius: 24px;
+     display: flex;
+     justify-content: space-between;
+     padding: 0 126px;
+ }
+
+ .texts {
+     padding: 126px 90px 142px 10px;
+ }
+
+ .party-title {
+     font-size: 64px;
+     color: white;
+     line-height: 68px;
+
+ }
+
+ .party-text {
+     font-size: 18px;
+     color: rgba(255, 255, 255, 0.8);
+ }
+
+ .join-button {
+     font-size: 20px;
+     color: white;
+     background-color: transparent;
+     border: none;
+ }
+
+ .year {
+     padding: 60px 0;
+ }
